@@ -24,7 +24,7 @@ Key:
   SAtoV: surface area to volume ratio of coral colony;
   T12_Dead, T12_TOD, T12_Status: all pertain to whether or no a colony was alive after 12 months, this study only used coral that survived to T12;
   CumulativeBreaks: breakage events observed from photographic taken every 3 month during first year of outplanting;
-  Status: whether a coral was observed to experience 1 or more breakage events over the first year of outplanting;
+  Status: whether a coral was observed to experience 1 or more breakage events over the first year of outplanting
   
   
 ImageCaptureSpecs.csv  -> csv file containing the number of photographs used to build individual coral models from 6 and 12 months in addition to the colony measurements, n= 427 and includes all models built in the experiment including colonies that were excluded due to incomplete data across the 3 time points
