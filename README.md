@@ -5,10 +5,15 @@ Acer3DMorphologyData.csv -> csv file containing phenotype data for 156 coral col
 
 Key:
   Each row represents a single coral colony and all of the phenotype data associated with it
+  
   Site: Reef site that coral was outplanted to
+  
   Tag: ID tag give to a coral at outplanting site (1-30 tags at each site)
+  
   Genotype and Nursey group: indicate clonal lineage of each coral, nursery group numbers were assigned to genotypes
+  
   Frag ID: position of coral ramet in an array of 30 ramets of the same genet at the coral nursery
+  
   T0_Method: method of phenotyping coral at nursery time point
   
   *Point measures for the each trait are indicated by time point first (T0,T6, or T12) then the trait*
